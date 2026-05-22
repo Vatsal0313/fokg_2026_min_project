@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+pycache/
+
+# Cached SPARQL results (large, regenerated on run)
+cache/
+
+# Input data files (large and not meant for version control)
+# data/*.nt
+
+# All generated output files
+# output/
+# *.ttl
+# *.png
+# *.npz
+# *.json
+# *.txt
+
+# IDE / editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS metadata
+.DS_Store
+Thumbs.db

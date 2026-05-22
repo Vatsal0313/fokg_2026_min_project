@@ -1,0 +1,3 @@
+ROC AUC: 0.766163
+True facts mean score: 0.390925
+False facts mean score: 0.390925
