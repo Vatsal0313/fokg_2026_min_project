@@ -21,3 +21,5 @@ If you need to regenerate everything from scratch, use the `--force` flag to ign
 ```bash
 python generate_result_force.py --force
 python compute_train_auc_plot.py --force
+
+## AUC SCORE gerbil: https://gerbil-kbc.aksw.org/gerbil/experiment?id=202605290001
